@@ -13,8 +13,8 @@ This project uses Cypress for end-to-end testing. Follow the steps below to set 
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/your-username/your-repository.git](https://github.com/sudhakar1234569/cypress-task.git)
-   cd your-repository
+   git clone https://github.com/sudhakar1234569/cypress-task.git
+   cd your project path
    
 ## Install dependencies:
   npm install
