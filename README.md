@@ -4,7 +4,7 @@ This project uses Cypress for end-to-end testing. Follow the steps below to set 
 
 ## Prerequisites
 
-- Node.js (v12.0.0 or higher)
+- Node.js (v18.x or higher)
 - npm (v6.0.0 or higher) or Yarn
 
 
